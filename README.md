@@ -7,8 +7,8 @@ A simple Python script to clean, analyze and visualize historical weather data o
 <img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/a47fd832-7135-4bc2-9a13-00c6981b9c7a" />
 <!-- Last two images (gallery style side by side) -->
 <p align="center">
-  <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/841e459f-64be-4229-9dab-bbdf767897e7" />
-  <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/6aed46e0-f2a0-454d-99cf-9231b12263c8" />
+  <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/841e459f-64be-4229-9dab-bbdf767897e7" />
+  <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/6aed46e0-f2a0-454d-99cf-9231b12263c8" />
 </p>
 
 
