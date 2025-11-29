@@ -2,6 +2,11 @@
 
 A simple Python script to clean, analyze and visualize historical weather data of Delhi — with monthly & yearly trends using temperature and rainfall data.  
 
+<img width="1200" height="400" alt="image" src="https://github.com/user-attachments/assets/ec0d067c-dc64-47f2-a9f0-2acca5c6e625" />
+<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/a47fd832-7135-4bc2-9a13-00c6981b9c7a" />
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/841e459f-64be-4229-9dab-bbdf767897e7" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/6aed46e0-f2a0-454d-99cf-9231b12263c8" />
+
 ---
 
 ## Features  
